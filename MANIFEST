@@ -1,0 +1,11 @@
+Changes
+lib/PNI/Node/Perldata.pm
+lib/PNI/Node/Perldata/Scalar.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/__classes.t
+t/_scalar.t
+t/all_pod_files_ok.t
+t/every_node_has_a_test.t
+META.yml                                 Module meta-data (added by MakeMaker)
